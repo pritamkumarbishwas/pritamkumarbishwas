@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-sigma-fawn-55.vercel.app/](https://portfolio-sigma-fawn-55.vercel.app/)
 
-- 💬 Ask me about **HTML ,Css, JavaScript,PHP, React.js, Node.js, MongoDB and MySql**
+- 💬 Ask me about **HTML , Css , JavaScript ,PHP , React.js , Node.js , Express js , MongoDB and MySql**
 
 - 📫 How to reach me **pritamkumarbishwas85@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1WVkHNhs_dWq2d6CnZvacewhRQLL3Rgmi/view?usp=drive_link](https://drive.google.com/file/d/1WVkHNhs_dWq2d6CnZvacewhRQLL3Rgmi/view?usp=sharing)
