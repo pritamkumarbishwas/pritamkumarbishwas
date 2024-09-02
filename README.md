@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [any project in my repos](https://github.com/pritamkumarbishwas?tab=repositories)
 
-- 👨‍💻 All of my projects are available at [https://www.crio.do/learn/portfolio/pritamkumarbishwas85/](https://www.crio.do/learn/portfolio/pritamkumarbishwas85/)
+- 👨‍💻 All of my projects are available at [https://portfolio-sigma-fawn-55.vercel.app/](https://portfolio-sigma-fawn-55.vercel.app/)
 
 - 💬 Ask me about **HTML ,Css, JavaScript,PHP, React.js, Node.js, MongoDB and MySql**
 
