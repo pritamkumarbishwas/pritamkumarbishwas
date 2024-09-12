@@ -16,7 +16,7 @@
 - 💬 Ask me about **HTML , Css , JavaScript ,Bootstrap , Material Ui , TypeScript , Redux , tailwind css , figma , React.js , Node.js , Express js , MongoDB and MySql**
 
 - 📫 How to reach me **pritamkumarbishwas85@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WVkHNhs_dWq2d6CnZvacewhRQLL3Rgmi/view?usp=drive_link](https://drive.google.com/file/d/1WVkHNhs_dWq2d6CnZvacewhRQLL3Rgmi/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1tW6gub7KBrLSqvGnRajK1WLI_XCMQovw/view?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
